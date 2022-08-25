@@ -1,1 +1,1 @@
-project 0x01-git alx
+Starting to code today, so cool
